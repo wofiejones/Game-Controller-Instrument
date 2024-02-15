@@ -1,4 +1,4 @@
-* Development Journal !!!
+#Development Journal
     * What game controller is this patch developed for?
         * PlayStation 3 Controller
     * Regarding the interactions that you created:
